@@ -1,0 +1,52 @@
+div
+{
+    display: inline-block;
+    margin: 0%;
+    padding: 0%;
+}
+
+#green-light
+{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    background-color: green;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+#yellow-light
+{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    background-color: yellow;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+#red-light
+{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    background-color: red;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+p
+{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    margin: 100px;
+    border-top: solid black 3px;
+    border-bottom: solid black 3px;
+}
